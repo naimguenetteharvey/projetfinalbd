@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinal_guenettenaim\\projetweb\\projetweb\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinal_guenettenaim\\projetweb\\projetweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinal_guenettenaim\\projetweb\\projetweb\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinal_guenettenaim\\projetweb\\projetweb\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinal_guenettenaim\\projetweb\\projetweb\\controllers\\statistiquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:controllers\\statistiquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinal_guenettenaim\\projetweb\\projetweb\\data\\liguenationalhockeycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:data\\liguenationalhockeycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinal_guenettenaim\\projetweb\\projetweb\\models\\vwstatistiquesjoueursparequipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:models\\vwstatistiquesjoueursparequipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T20:46:00.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T20:45:59.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T20:45:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T20:45:56.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatistiquesController.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Controllers\\StatistiquesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatistiquesController.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Controllers\\StatistiquesController.cs",
+              "RelativeToolTip": "Controllers\\StatistiquesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:32:25.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LigueNationalHockeyContext.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Data\\LigueNationalHockeyContext.cs",
+              "RelativeDocumentMoniker": "Data\\LigueNationalHockeyContext.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Data\\LigueNationalHockeyContext.cs",
+              "RelativeToolTip": "Data\\LigueNationalHockeyContext.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwHgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:27:47.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VwStatistiquesJoueursParEquipe.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Models\\VwStatistiquesJoueursParEquipe.cs",
+              "RelativeDocumentMoniker": "Models\\VwStatistiquesJoueursParEquipe.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinal_GuenetteNaim\\ProjetWeb\\projetWeb\\Models\\VwStatistiquesJoueursParEquipe.cs",
+              "RelativeToolTip": "Models\\VwStatistiquesJoueursParEquipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:26:34.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
